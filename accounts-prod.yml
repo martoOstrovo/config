@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Martogr accounts prod api"
+  contactDetails:
+    name: "Martogr - prod owner"
+    email: "martogr@yahoo.com"
+  onCallSupport:
+    - (453) 555-1234
+    - (453) 555-1235

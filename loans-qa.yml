@@ -1,0 +1,8 @@
+loans:
+  message: "Welcome to Martogr loans related local APIs "
+  contactDetails:
+    name: "Martogr - QA Lead"
+    email: "martogr@gmail.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467

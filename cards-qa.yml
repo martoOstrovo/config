@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Martogr cards API"
+  contactDetails:
+    name: "Martogr - QA"
+    email: "martogr@gmail.com"
+  onCallSupport:
+    - (222) 222-1234
+    - (333) 222-1235
