@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Martogr accounts prod api"
+  message: "Martogr accounts production api"
   contactDetails:
     name: "Martogr - prod owner"
     email: "{cipher}257667e4d27e58e0d3ef9e41db1c3c5c3da1533f717f456aba14b480bebd5797bcf48e5943f31da2de9ce964a2c5e430"
